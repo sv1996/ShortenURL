@@ -1,5 +1,5 @@
 # ShortenURL
-This is a URL Shortening Project Build on Nodejs Express.js and Firebase
+This is a URL Shortening Project (Backend) Build on Nodejs Express.js and Firebase
 
 ## Technology Used 
 
